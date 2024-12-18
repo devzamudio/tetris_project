@@ -7,6 +7,6 @@ This is our Physics final project
 To set the interpreter to the one in the `venv` folder and run the code, use the following commands:
 
 ```bash
-source /home/leonardo/Downloads/tetris_project/venv/bin/activate
-python /home/leonardo/Downloads/tetris_project/tetris.py
+source tetris_project/venv/bin/activate
+python tetris_project/tetris.py
 ```
